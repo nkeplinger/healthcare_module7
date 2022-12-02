@@ -1,5 +1,10 @@
 # healthcare_module7
-Team workflow repo
+Team workflow Repo
+
+Proposal of Research Questions 
+(Source data can be found in Resources/ directory)
+
+
 Question 1 (Dylan): How does time of year/ days/month impact shortage? Are there temporal trends?
 
 Questions 2 (Raelle): How does reported death affect hospital shortage? Or vice versa? 
