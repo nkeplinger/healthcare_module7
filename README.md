@@ -10,13 +10,13 @@ There is an available API, but we grabbed the data as a CSV for ease of importai
 This file is located in `Resources/COVID_staff_shortages.csv`
 
 ### Individual project code
-Individually we all decided to tackle a research questions and work through a personalized Jupiter Notebook. These individual pieces are located in 'group_working_code/'. There are 4 files, one for each team member to work with.
+Individually we all decided to tackle a research questions and work through a personalized Jupiter Notebook. These individual pieces are located in `group_working_code/`. There are 4 files, one for each team member to work with.
 
 ### Final Code
-Our final code has been merged together into a final file 'final_data_analysis_and_vizualization.ipnb'. This file consists of all merge code from individual group members to generate all the data analysis and supporting visuals 
+Our final code has been merged together into a final file `final_data_analysis_and_vizualization.ipnb`. This file consists of all merge code from individual group members to generate all the data analysis and supporting visuals 
 
 ### Supporting Images 
-All supporting images were output and saved in the 'output/' directory. These ouptputs were used to generate our final report summary and presentation. Figure numbers correspond to the reasearch topic they are supporting. 
+All supporting images were output and saved in the `output/` directory. These ouptputs were used to generate our final report summary and presentation. Figure numbers correspond to the reasearch topic they are supporting. 
 
 ## Research Summary
 We Broke our data into four research topics to better uncover trends associated with staff shortages in hospitals from 2020 to 2022. After initial data exploration we each developed hypotheses to test:
