@@ -3,7 +3,7 @@
 ## WELCOME
 Welcome to our team project reapo for module 7. We have decided to analyze an open source dataset that has captured staff shortages among hospitals across the country from Jan 2020 through Desember 2022 along with additional metadata. Our goal was to rearch possible commonalities and trends among staff shortages and other hospital data. 
 
-## Repo Architecture
+## REPO ARCHITECTURE
 #Source Data
 Source data was pulled from https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/g62h-syeh
 There is an available API, but we grabbed the data as a CSV for ease of importaing and version control. 
@@ -18,24 +18,24 @@ Our final code has been merged together into a final file `final_data_analysis_a
 ### Supporting Images 
 All supporting images were output and saved in the `output/` directory. These ouptputs were used to generate our final report summary and presentation. Figure numbers correspond to the reasearch topic they are supporting. 
 
-## Research Summary
+# RESEARCH SUMMARY
 We Broke our data into four research topics to better uncover trends associated with staff shortages in hospitals from 2020 to 2022. After initial data exploration we each developed hypotheses to test:
 
-### Topic 1: (Dylan) 
+## Topic 1: (Dylan) 
 
 __Null 1.1:__ 
 __Alternative 1.1:__ 
 
 __Result Summary:__ 
 
-### Topic 2: (Raelle)
+## Topic 2: (Raelle)
 
 __Null 2.1:__ 
 __Alternative 2.1:__ 
 
 __Result Summary:__ 
 
-### Topic 3: (Nicolette) Staff shortages Vs. Adult and Pediatric Patient Numbers
+## Topic 3: (Nicolette) Staff shortages Vs. Adult and Pediatric Patient Numbers
 
 __Null 3.1:__ here is no relationship between staff shortages and inpatient occupancy (Adult and/or Pediatric) from 2020 to 2022 in the US
 __Alternative 3.1:__ There is a relationship between critical staff shortages and adult and/or pediatric inpatient occupancy from 2020 to 2022
@@ -48,7 +48,7 @@ __Null 3.2:__ There is no relationship between staff shortages and confirmed cov
 __Result Summary:__
 
 
-### Topic 4: (Iqra)
+## Topic 4: (Iqra)
 
 __Null 4.1:__ 
 __Alternative 4.1:__ 
@@ -56,4 +56,4 @@ __Alternative 4.1:__
 __Result Summary:__ 
 
 
-## Thanks from the team :)
+# Thanks from the team :)
