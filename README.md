@@ -7,7 +7,7 @@ Welcome to our team project reapo for module 7. We have decided to analyze an op
 #Source Data
 Source data was pulled from https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/g62h-syeh
 There is an available API, but we grabbed the data as a CSV for ease of importaing and version control. 
-This file is located in 'Resources/COVID_staff_shortages.csv'
+This file is located in `Resources/COVID_staff_shortages.csv`
 
 ### Individual project code
 Individually we all decided to tackle a research questions and work through a personalized Jupiter Notebook. These individual pieces are located in 'group_working_code/'. There are 4 files, one for each team member to work with.
