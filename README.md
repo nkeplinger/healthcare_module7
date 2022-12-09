@@ -43,7 +43,7 @@ __Alternative 3.1:__ There is a relationship between critical staff shortages an
 __Result Summary:__ 
 
 __Null 3.2:__ There is no relationship between staff shortages and confirmed covid cases (Adult and/or Pediatric) from 2020 to 2022 in the US
-++Alternative 3.2:__ There is a relationship between critical staff shortages and confirmed covid cases in adult and/or pediatrics from 2020 to 2022
+__Alternative 3.2:__ There is a relationship between critical staff shortages and confirmed covid cases in adult and/or pediatrics from 2020 to 2022
 
 __Result Summary:__
 
