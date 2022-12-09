@@ -23,24 +23,37 @@ We Broke our data into four research topics to better uncover trends associated 
 
 ### Topic 1: (Dylan) 
 
-### Topic 2: (Raelle)
-
-### Topic 3: (Nicolette) Staff shortages Vs. Adult and Pediatric Patient Numbers
-
-Null 3.1: here is no relationship between staff shortages and inpatient occupancy (Adult and/or Pediatric) from 2020 to 2022 in the US
-Alternative 3.1: There is a relationship between critical staff shortages and adult and/or pediatric inpatient occupancy from 2020 to 2022
+__Null 1.1:__ 
+__Alternative 1.1:__ 
 
 __Result Summary:__ 
 
-Null 3.2: There is no relationship between staff shortages and confirmed covid cases (Adult and/or Pediatric) from 2020 to 2022 in the US
-Alternative 3.2:There is a relationship between critical staff shortages and confirmed covid cases in adult and/or pediatrics from 2020 to 2022
+### Topic 2: (Raelle)
+
+__Null 2.1:__ 
+__Alternative 2.1:__ 
+
+__Result Summary:__ 
+
+### Topic 3: (Nicolette) Staff shortages Vs. Adult and Pediatric Patient Numbers
+
+__Null 3.1:__ here is no relationship between staff shortages and inpatient occupancy (Adult and/or Pediatric) from 2020 to 2022 in the US
+__Alternative 3.1:__ There is a relationship between critical staff shortages and adult and/or pediatric inpatient occupancy from 2020 to 2022
+
+__Result Summary:__ 
+
+__Null 3.2:__ There is no relationship between staff shortages and confirmed covid cases (Adult and/or Pediatric) from 2020 to 2022 in the US
+++Alternative 3.2:__ There is a relationship between critical staff shortages and confirmed covid cases in adult and/or pediatrics from 2020 to 2022
 
 __Result Summary:__
 
 
 ### Topic 4: (Iqra)
 
+__Null 4.1:__ 
+__Alternative 4.1:__ 
 
+__Result Summary:__ 
 
 
 ## Thanks from the team :)
