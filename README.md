@@ -29,9 +29,12 @@ We Broke our data into four research topics to better uncover trends associated 
 
 Null 3.1: here is no relationship between staff shortages and inpatient occupancy (Adult and/or Pediatric) from 2020 to 2022 in the US
 Alternative 3.1: There is a relationship between critical staff shortages and adult and/or pediatric inpatient occupancy from 2020 to 2022
+__Result Summary:__ 
 
 Null 3.2: There is no relationship between staff shortages and confirmed covid cases (Adult and/or Pediatric) from 2020 to 2022 in the US
 Alternative 3.2:There is a relationship between critical staff shortages and confirmed covid cases in adult and/or pediatrics from 2020 to 2022
+__Result Summary:__
+
 
 ### Topic 4: (Iqra)
 
