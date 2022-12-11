@@ -18,6 +18,12 @@ Our final code has been merged together into a final file `final_data_analysis_a
 ### Supporting Images 
 All supporting images were output and saved in the `output/` directory. These ouptputs were used to generate our final report summary and presentation. Figure numbers correspond to the reasearch topic they are supporting. 
 
+### Supporting Images 
+All data presented on December 2022 were saved in the `Presentation/` directory. 
+
+### Final Summary
+All data presented on December 2022 were saved in the `Summary_doc/` directory. 
+
 # RESEARCH SUMMARY
 We Broke our data into four research topics to better uncover trends associated with staff shortages in hospitals from 2020 to 2022. After initial data exploration we each developed hypotheses to test:
 
@@ -39,15 +45,16 @@ __Result Summary:__
 
 ## Topic 3: (Nicolette) Staff shortages Vs. Adult and Pediatric Patient Numbers
 
-__Null 3.1:__ here is no relationship between staff shortages and inpatient occupancy (Adult and/or Pediatric) from 2020 to 2022 in the US
+__Null 3.1:__ There is no relationship between staff shortages and inpatient occupancy (Adult and/or Pediatric) from 2020 to 2022 in the US
 __Alternative 3.1:__ There is a relationship between critical staff shortages and adult and/or pediatric inpatient occupancy from 2020 to 2022
 
-__Result Summary:__ 
+__Result Summary:__ These data (Figures 3-1, 3-1a-f) supports the alternative hypothesis that there is a relationship between critical staff shortages and adults and pediatric inpatient occupancy from 2020 to 2022, with the exception of pediatric patients in 2020. 
 
 __Null 3.2:__ There is no relationship between staff shortages and confirmed covid cases (Adult and/or Pediatric) from 2020 to 2022 in the US
 __Alternative 3.2:__ There is a relationship between critical staff shortages and confirmed covid cases in adult and/or pediatrics from 2020 to 2022
 
-__Result Summary:__
+__Result Summary:__ These data (Figures 3-2a-e) supports the alternative hypothesis that there is a relationship between critical staff shortages and BOTH pediatric and adult confirmed covid cases in US hospitals from 2020 to 2022. 
+
 
 
 ## Topic 4: (Iqra)
