@@ -28,12 +28,12 @@ __Alternative 1.1:__
 
 __Result Summary:__ 
 
-## Topic 2: (Raelle) Satff ShortageS Vs. Covid Deaths from 2020 to 2022?
+## Topic 2: (Raelle) Satff Shortages Vs. Covid Deaths from 2020 to 2022?
 
 __Null 2.1:__ 
 __Alternative 2.1:__ Are there any correlations and or relationship between critical staff shortages being reported and Covid Deaths from 2020 to 2022?
                         Does a high number of reported deaths lead to more staff shortages?
-                        Does a high number of reported staff shortages lead to high number of Covid Deaths?
+                        Does a high number of reported staff shortages lead to a higher number of Covid Deaths?
 
 __Result Summary:__ 
 
