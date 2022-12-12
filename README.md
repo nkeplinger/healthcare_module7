@@ -29,10 +29,17 @@ We Broke our data into four research topics to better uncover trends associated 
 
 ## Topic 1: (Dylan) 
 
-__Null 1.1:__ 
-__Alternative 1.1:__ 
+__Null 1.1:__ There was no relationship between seasons and staffing shortage. 
+__Alternative 1.1:__ There was a relationship between the seasons and staffing shortages.
+__Result Summary:__ the pearson coefficient and p-value indicate we can reject the null hypothesis.
 
-__Result Summary:__ 
+__Null 1.1:__ There was no relationship between day of the year and staffing shortage. 
+__Alternative 1.1:__ There was a relationship between the day of the year and staffing shortages.
+__Result Summary:__ the linear regression r-squared value indicates we can reject the null hypothesis.
+
+__Null 1.1:__ There was no relationship between day of the week and staffing shortage. 
+__Alternative 1.1:__ There was a relationship between the day of the week and staffing shortages.
+__Result Summary:__ the pearson coefficient and p-value indicate we can reject the null hypothesis.
 
 ## Topic 2: (Raelle) Staff Shortages Vs. Covid Deaths from 2020 to 2022?
 
