@@ -59,10 +59,10 @@ __Result Summary:__ These data (Figures 3-2a-e) supports the alternative hypothe
 
 ## Topic 4: (Iqra)
 
-__Null 4.1:__ 
-__Alternative 4.1:__ 
+__Null 4.1:__ 4 There is no relationship between the number of states in a hospital and average critical staffing shortage per state.
+__Alternative 4.1:__ There is a relationship seen the number of in a hospital, and the average critical staffing per state.
 
-__Result Summary:__ 
+__Result Summary:__ These data (Figure 4-1 and 4-2) support that there is a positive correlation, where the more hospitals there are, the more average critical staffing shortages there are per state
 
 
 # Thanks from the team :)
