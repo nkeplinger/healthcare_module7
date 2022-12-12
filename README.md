@@ -4,7 +4,7 @@
 Welcome to our team project reapo for module 7. We have decided to analyze an open source dataset that has captured staff shortages among hospitals across the country from Jan 2020 through Desember 2022 along with additional metadata. Our goal was to rearch possible commonalities and trends among staff shortages and other hospital data. 
 
 ## REPO ARCHITECTURE
-#Source Data
+# Source Data
 Source data was pulled from https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/g62h-syeh
 There is an available API, but we grabbed the data as a CSV for ease of importaing and version control. 
 This file is located in `Resources/COVID_staff_shortages.csv`
@@ -18,11 +18,11 @@ Our final code has been merged together into a final file `final_data_analysis_a
 ### Supporting Images 
 All supporting images were output and saved in the `output/` directory. These ouptputs were used to generate our final report summary and presentation. Figure numbers correspond to the reasearch topic they are supporting. 
 
-### Supporting Images 
-All data presented on December 2022 were saved in the `Presentation/` directory. 
+### Presentaiton
+A powerpoint presenation presented on December 2022 was saved in the `Presentation/` directory. 
 
 ### Final Summary
-All data presented on December 2022 were saved in the `Summary_doc/` directory. 
+A summary of all findings can be found in the `Summary_doc/` directory. This data references figures found in the `output/` directory.
 
 # RESEARCH SUMMARY
 We Broke our data into four research topics to better uncover trends associated with staff shortages in hospitals from 2020 to 2022. After initial data exploration we each developed hypotheses to test:
