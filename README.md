@@ -31,15 +31,16 @@ We Broke our data into four research topics to better uncover trends associated 
 
 __Null 1.1:__ There was no relationship between seasons and staffing shortage. 
 __Alternative 1.1:__ There was a relationship between the seasons and staffing shortages.
-__Result Summary:__ the pearson coefficient and p-value indicate we can reject the null hypothesis.
+__Result Summary:__ The pearson coefficient and p-value indicate we can reject the null hypothesis. Shortages increase on average with progression of seasons from Spring to Winter, most heavily in Fall and Winter.
 
-__Null 1.1:__ There was no relationship between day of the year and staffing shortage. 
-__Alternative 1.1:__ There was a relationship between the day of the year and staffing shortages.
-__Result Summary:__ the linear regression r-squared value indicates we can reject the null hypothesis.
 
-__Null 1.1:__ There was no relationship between day of the week and staffing shortage. 
-__Alternative 1.1:__ There was a relationship between the day of the week and staffing shortages.
-__Result Summary:__ the pearson coefficient and p-value indicate we can reject the null hypothesis.
+__Null 1.2:__ There was no relationship between day of the year and staffing shortage. 
+__Alternative 1.2:__ There was a relationship between the day of the year and staffing shortages.
+__Result Summary:__ The linear regression r-squared value indicates we can reject the null hypothesis. On average, the first and last 30 days of each year see the greatest impact of staffing shortages, with a significant increase in the last 5 months of the year.
+
+__Null 1.3:__ There was no relationship between day of the week and staffing shortage. 
+__Alternative 1.3:__ There was a relationship between the day of the week and staffing shortages.
+__Result Summary:__ The pearson coefficient and p-value indicate we can reject the null hypothesis. Wednesday through Friday see the greatest levels of reported staffing shortages, dwindling as the weekdays approach Tuesday which saw the lowest average shortages.
 
 ## Topic 2: (Raelle) Staff Shortages Vs. Covid Deaths from 2020 to 2022?
 
