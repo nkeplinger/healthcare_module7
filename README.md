@@ -69,5 +69,7 @@ __Alternative 4.1:__ There is a relationship seen the number of in a hospital, a
 
 __Result Summary:__ These data (Figure 4-1 and 4-2) support that there is a positive correlation, where the more hospitals there are, the more average critical staffing shortages there are per state
 
+ Null 4.2: There is no relationship between the number of hospitals in a state and the % occupancy of inpatient beds
+ Alternative 4.2: There is a relationship between the number of hospitals in a state and the % occupancy of inpatient beds
 
 # Thanks from the team :)
