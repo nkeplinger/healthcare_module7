@@ -19,7 +19,7 @@ Our final code has been merged together into a final file `final_data_analysis_a
 All supporting images were output and saved in the `output/` directory. These ouptputs were used to generate our final report summary and presentation. Figure numbers correspond to the reasearch topic they are supporting. 
 
 ### Presentaiton
-A powerpoint presenation presented on December 2022 was saved in the `Presentation/` directory. 
+A powerpoint presenation presented was submitted on the bootcamp spot submission portal. 
 
 ### Final Summary
 A summary of all findings can be found in the `Summary_doc/` directory. This data references figures found in the `output/` directory.
@@ -43,13 +43,11 @@ __Result Summary:__ the pearson coefficient and p-value indicate we can reject t
 
 ## Topic 2: (Raelle) Staff Shortages Vs. Covid Deaths from 2020 to 2022?
 
-__Null 2.1:__ 
-__Alternative 2.1:__ Are there any correlations and or relationship between critical staff shortages being reported and Covid Deaths from 2020 to 2022?
-                        Does a high number of reported deaths lead to more staff shortages?
-                        Does a high number of reported staff shortages lead to a higher number of Covid Deaths?
+__Null 2.1:__ There is no relationship between staff shortages and covid deaths from 2020 to 2022
+__Alternative 2.1:__ Covid deaths having a significant impact on hospital staff or shortage or vice versa.
 
-__Result Summary:__ 
-
+__Result Summary:__ Data figures  Figure 2.3 shows a negative correlation between Covid Deaths vs Covid Deaths. Figure 2.1. There is an outlier in the NY data for Q2 of 2022.Figure 2.6. The TX data is spread more evenly.
+ 
 ## Topic 3: (Nicolette) Staff shortages Vs. Adult and Pediatric Patient Numbers
 
 __Null 3.1:__ There is no relationship between staff shortages and inpatient occupancy (Adult and/or Pediatric) from 2020 to 2022 in the US
